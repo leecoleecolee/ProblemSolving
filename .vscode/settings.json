@@ -1,0 +1,7 @@
+{
+	"python.pythonPath": ".venv/bin/python3.8",
+	"editor.formatOnSave": true,
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"python.linting.lintOnSave": true
+}
