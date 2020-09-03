@@ -21,7 +21,7 @@ class Solution:
                 elif sum > 0:
                     right -= 1
                 else:
-                    results.appen(nums[i], nums[left], nums[right])
+                    results.append((nums[i], nums[left], nums[right]))
 
                     # 중복인 수는 스킵
                     while left < right and nums[left] == nums[left + 1]:
