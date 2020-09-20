@@ -1,4 +1,5 @@
 from typing import List
+import collections
 
 # ---
 # class Solution:
@@ -37,7 +38,20 @@ from typing import List
 # ---
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        ...
+        forward, backward = collections.deque(), collections.deque()
+        f, b = 1, 1
+        
+        for i, num in enumerate(nums):
+            forward.append(f)
+            f *= num
+            backward.appendleft(b) # deque를 이용한 appendleft
+            b *= nums[len(nums) - 1 - i]
+
+        # print (forward)
+        # print (backward)
+        # print (list(zip(forward, backward))) # zip()
+
+        return [a * b for a, b in zip(forward, backward)] # 리스트 컴프리헨션과 zip()을 이용한 두 리스트의 곱연산
 
 # ---
 sol = Solution()
