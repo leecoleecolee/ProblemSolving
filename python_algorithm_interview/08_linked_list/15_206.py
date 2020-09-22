@@ -1,8 +1,26 @@
+'''
+* 문제
+연결리스트를 뒤집어라.
+in) 1->2->3->NULL
+out) 3->2->1->NULL
+
+* 풀이방법
+1) 재귀
+2) 반복
+
+* [x] 1회차
+기본적인 문제임에도 연결리스트나 재귀 등에 대한 이해가 부족해서 아직 스스로 풀기가 어려웠다.
+하지만 이해에 도움이 되는 굉장히 좋은 문제.
+
+* [ ] 2회차
+'''
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
 

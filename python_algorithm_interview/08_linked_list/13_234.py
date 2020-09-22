@@ -1,3 +1,17 @@
+'''
+* 문제
+연결리스트가 팰린드롬인지 판별하라
+in) 1->2->2->1
+out) true
+
+* 풀이방법
+1) 자료형 변환 (리스트나 데크로)
+2) 런너 기법
+
+* [x] 1회차
+런너 기법과 연결리스트의 리버싱을 연습할 수 있는 문제.
+'''
+
 import collections
 
 # Definition for singly-linked list.

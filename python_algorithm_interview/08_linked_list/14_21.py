@@ -1,3 +1,20 @@
+'''
+* 문제
+정렬되어 있는 두 연결리스트를 병합하라.
+in) 1->2->4, 1->3->4
+out) 1->1->2->3->4->4
+
+* 풀이 방법
+1) 재귀
+2) 반복
+
+* [x] 1회차
+책의 재귀 풀이는 이해가 직관적으로 와닿지는 않는다. https://leetcode.com/problems/merge-two-sorted-lists/discuss/321108/21python-omn-time-omn-space-solution 링크의 재귀 풀이는 꽤 직관적이라 연습하기 좋다. (이런건 백트래킹이 아닌가?)
+다른 방법으로도 풀어보고 싶은 문제. 특히 반복으로...
+
+* [ ] 2회차
+'''
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
