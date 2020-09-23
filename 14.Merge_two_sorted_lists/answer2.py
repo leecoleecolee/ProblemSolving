@@ -11,8 +11,7 @@ class ListNode:
 
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        dummy_head = ListNode(-1)
-        cur = dummy_head
+        cur = dummy_head = ListNode(None)
 
         # Both l1 and l2 still have elements
         while l1 and l2:
@@ -24,13 +23,8 @@ class Solution:
                 l2 = l2.next
             cur = cur.next
 
-        # if l1 is empty, directly merge l2
-        if l2:
-            cur.next = l2
-
-        # if l2 is empty, directly merge l1
-        if l1:
-            cur.next = l1
+        # if l2 is empty, directly merge l1, else if l1 is empty, directly merge l2
+        cur.next = l1 or l2
 
         # return the head of merged sorted linked list
         return dummy_head.next
