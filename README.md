@@ -23,6 +23,11 @@
 | List                | 17   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                         | 🌱  | 🌱   |
 | List                | 18   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                       | 🌱  | 🌱   |
 | List                | 19   | [Reverse Linked List2](https://leetcode.com/problems/reverse-linked-list-ii/)                     | 🌱  | 🌱   |
-| Stack               | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | 🌱  |      |
-| Stack               | 21   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)               |     |      |
+| Stack               | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | 🌱  | 🌱   |
+| Stack               | 21   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)               | 🌱  | 🌱   |
+| Stack               | 22   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                           | 🌱  | 🌱   |
+| Stack               | 23   | [Implement Stack Using Queues]()                                                                  |     |      |
+| Stack               | 24   | [Implement Queue Using Stacks]()                                                                  |     |      |
+| Stack               | 25   | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                     | 🌱  |      |
+| Stack               | 26   | []()                                                                                              |     |      |
 |                     |      |                                                                                                   |     |      |
