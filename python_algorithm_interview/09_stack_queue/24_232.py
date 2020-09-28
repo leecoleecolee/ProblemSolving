@@ -8,33 +8,17 @@ class MyQueue:
 
     def pop(self) -> int:
         tmp = []
-        leng = len(self.stack)
-        for _ in range(leng - 1):
+        for _ in range(len(self.stack) - 1):
             tmp.append(self.stack.pop())
         ret = self.stack.pop()
         while tmp:
             self.stack.append(tmp.pop())
+        # 책에서는 tmp에 옮겼다가 다시 stack으로 옮기지 않고, 멤버변수로 유지함. 훨씬 효율적.
         return ret
-        
 
     def peek(self) -> int:
-        tmp = []
-        leng = len(self.stack)
-        for _ in range(leng - 1):
-            tmp.append(self.stack.pop())
-        ret = self.stack[-1]
-        while tmp:
-            self.stack.append(tmp.pop())
-        return ret
+        return self.stack[0]
 
     def empty(self) -> bool:
-        return len(self.stack) == 0
-        
-
-
-# Your MyQueue object will be instantiated and called as such:
-# obj = MyQueue()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.peek()
-# param_4 = obj.empty()
+        # return len(self.stack) == 0
+        return not self.stack
