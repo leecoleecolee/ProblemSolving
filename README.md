@@ -29,5 +29,7 @@
 | Stack               | 23   | [Implement Stack Using Queues]()                                                                  |     |      |
 | Stack               | 24   | [Implement Queue Using Stacks]()                                                                  |     |      |
 | Stack               | 25   | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                     | 🌱  |      |
-| Stack               | 26   | []()                                                                                              |     |      |
+| Stack               | 26   | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)                     |     |      |
+| Stack               | 27   | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists)                        | 🌱  | 🌱   |
+| Stack               | 28   | [Design hashmap](https://leetcode.com/problems/design-hashmap)                                    | 🌱  | 🌱   |
 |                     |      |                                                                                                   |     |      |

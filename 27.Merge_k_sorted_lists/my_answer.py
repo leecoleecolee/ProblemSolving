@@ -14,14 +14,17 @@ class Solution:
         root = result = ListNode(None)
         heap = []
 
-        # 각 연결 리스트의 루트를 힙에 저장
+        # 아래처럼하면 오류가 남.
+        # for lst in lists:
+        #     heapq.heappush(heap, lst)
+
         for i in range(len(lists)):
             if lists[i]:
                 heapq.heappush(heap, (lists[i].val, i, lists[i]))
 
-        # 힙 추출 이후 다음 노드는 다시 저장
         while heap:
             node = heapq.heappop(heap)
+            # 1, 0, ListNode(1)
             idx = node[1]
             result.next = node[2]
 
