@@ -24,3 +24,6 @@
 | [10장. 데크, 우선순위 큐](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/10_deque_priority_queue) | 26. 원형 데크 디자인 | 20.09.27 | #`자료구조` | ✅ |
 |   | 27. k개 정렬 리스트 병합 | 20.09.28 | | |
 | [11장. 해시 테이블](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/11_hash_table) | 28. 해시맵 디자인 | 20.09.28 | | |
+|   | 29. 보석과 돌 | 20.10.05 | #`defaultdict` #`Counter` #`리스트 컴프리헨션` | ✅ |
+|   | 30. 중복 문자 없는 가장 긴 부분 문자열 | 20.10.05 | #`슬라이딩 윈도우` #`투 포인터` | ✅ |
+|   | 31. 상위 K 빈도 요소 | 20.10.05 | #`heapq 최소힙` #`Counter most_common(k)` #`zip()` #`*언패킹` | ✅ |
