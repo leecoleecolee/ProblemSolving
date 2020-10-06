@@ -11,6 +11,6 @@ class Solution:
             ret.append(path)
             for i in range(index, length):
                 dfs(i + 1, path + [nums[i]])
-            
+        # dfs 시작
         dfs(0, [])
         return ret
