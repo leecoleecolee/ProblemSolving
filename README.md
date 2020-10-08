@@ -24,8 +24,9 @@
 
 ## 🍉 문제
 
+|   날짜   | 챕터 |      문제      | 발표자  | 풀이 |       복습        |
+| :------: | :--: | :------------: | :-----: | :--: | :---------------: |
+| 20.10.07 | 12장 | 37번. 부분집합 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/DFS_BFS/78.py) | 🐵 \| :ghost: \| 🌙 |
+|          |      |                |         |      |                   |
 
-|   날짜   | 챕터 |      문제      | 풀이 |       복습        |
-| :------: | :--: | :------------: | :--: | :---------------: |
-| 20.10.07 | 12장 | 37번. 부분집합 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/DFS_BFS/78.py) | 🐵 \| :ghost: \| 🌙 |
-|          |      |                |      |                   |
+
