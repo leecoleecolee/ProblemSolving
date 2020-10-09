@@ -27,3 +27,7 @@
 |   | 29. 보석과 돌 | 20.10.05 | #`defaultdict` #`Counter` #`리스트 컴프리헨션` | ✅ |
 |   | 30. 중복 문자 없는 가장 긴 부분 문자열 | 20.10.05 | #`슬라이딩 윈도우` #`투 포인터` | ✅ |
 |   | 31. 상위 K 빈도 요소 | 20.10.05 | #`heapq 최소힙` #`Counter most_common(k)` #`zip()` #`*언패킹` | ✅ |
+| [12장. 그래프](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/12_graph) | 34. 순열 | 20.10.07 | #`DFS와 재귀` #`참조와 객체 복사` #`itertools 모듈` | ✅ |
+|   | 35. 조합 | 20.10.07 | #`DFS와 재귀` #`참조와 객체 복사` #`itertools 모듈` | ✅ |
+| [13장. 최단 경로 문제](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/13_shortest_way) | 40. 네트워크 딜레이 타임 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
+|   | 41. K 경유지 내 가장 저렴한 항공권 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
