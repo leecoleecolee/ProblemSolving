@@ -286,7 +286,7 @@ return anagrams.values()
 
 </blockquote></details>
 
-|   날짜   | 챕터 |      문제      | 발표자  | 풀이 |       복습        |
+|   날짜   | 챕터 |      문제      | 발표자  | 풀이/해설 |       복습        |
 | :------: | :--: | ------------ | :-----: | :--: | :---------------: |
 | 20.10.07 | 12장 | 37번. 부분집합 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/DFS_BFS/78.py) | :ghost: |
 | 20.10.09 | 13장 | 40번. 네트워크 딜레이 타임 | 👻 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/13_shortest_way/40_743.py) | 👻 |
