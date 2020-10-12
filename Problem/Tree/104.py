@@ -1,4 +1,6 @@
-# bfs -> 재귀x , queue
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        # bfs -> 재귀x , queue
         if not root:
             return 0
         depth = 0
@@ -11,4 +13,4 @@
                     queue.append(cur.left)
                 if cur.right:
                     queue.append(cur.right)
-        return depth 
+        return depth
