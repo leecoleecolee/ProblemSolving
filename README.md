@@ -18,6 +18,7 @@
 
 | 날짜 | iwoo 🐵 | sanam :ghost: | gmoon 🌙 | 총계 |
 | :----: | :----: | :-----: | :-----: | :-----: |
+| 2020.10.13.|      |       |  3000     |  17000   |
 | 2020.10.12.| 3000     |       |       |  14000   |
 | 2020.10.11.|      |       |   5000    |  11000   |
 | 2020.10.08.|  3000    |       |       |  6000   |
@@ -34,6 +35,8 @@
 | 20.10.12 |  14장 | 42번. 이진 트리의 최대 깊이 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/104.py)     |  |
 |          |      | 43번. 이진 트리의 직경 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/543.py)     |  |
 |          |      | 44번. 가장 긴 동일 값의 경로 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/687.py)     |  |
+| 20.10.13 |      | 45번. 이진 트리의 최대 깊이 | :ghost: | [링크]()     |  |
+|          |      | 46번. 이진 트리의 직경 | :ghost: | [링크]()     |  |
 
 
 
