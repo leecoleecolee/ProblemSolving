@@ -37,6 +37,6 @@
 |          |      | 44번. 가장 긴 동일 값의 경로 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/687.py)     |  |
 | 20.10.13 |      | 45번. 이진 트리 반전 | 🐵 | [링크]()     |  |
 |          |      | 46번. 두 이진 트리 병합 | 🐵 | [링크]()     |  |
-
+| 20.10.14 |      | 47번. 이진 트리 직렬화 & 역직렬화 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/47_297.py) | 🌙 |
 
 
