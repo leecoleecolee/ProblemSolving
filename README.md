@@ -31,3 +31,4 @@
 |   | 35. 조합 | 20.10.07 | #`DFS와 재귀` #`참조와 객체 복사` #`itertools 모듈` | ✅ |
 | [13장. 최단 경로 문제](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/13_shortest_way) | 40. 네트워크 딜레이 타임 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
 |   | 41. K 경유지 내 가장 저렴한 항공권 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
+| [14장. 트리](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/14_tree) | 47. 이진 트리 직렬화 & 역직렬화 | 20.10.14 | #`트리와 배열 표현` | ✅ |
