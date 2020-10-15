@@ -38,5 +38,7 @@
 | 20.10.13 |      | 45번. 이진 트리 반전 | 🐵 | [링크]()     |  |
 |          |      | 46번. 두 이진 트리 병합 | 🐵 | [링크]()     |  |
 | 20.10.14 |      | 47번. 이진 트리 직렬화 & 역직렬화 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/47_297.py) | 🌙 |
+| 20.10.15 |      | 48번. 균형 이진 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/110.py) | :ghost: |
+|          |      | 49번. 최소 높이 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/310.py) | :ghost: |
 
 
