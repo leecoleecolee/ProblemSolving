@@ -43,5 +43,5 @@
 | 20.10.15 |      | 48번. 균형 이진 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/110.py) | :ghost: |
 |          |      | 49번. 최소 높이 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/310.py) | :ghost: |
 | 20.10.20 |      | 57번. 펠린드롬 페어 | 🐵 | [링크]()     |  |
-
+| 20.10.23 |      | 60번. 삽입정렬  | 👻 | [링크]()     |  |
 
