@@ -32,3 +32,9 @@
 | [13장. 최단 경로 문제](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/13_shortest_way) | 40. 네트워크 딜레이 타임 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
 |   | 41. K 경유지 내 가장 저렴한 항공권 | 20.10.09 | #`다익스트라 알고리즘` #`우선순위 큐` | ✅ |
 | [14장. 트리](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/14_tree) | 47. 이진 트리 직렬화 & 역직렬화 | 20.10.14 | #`트리와 배열 표현` | ✅ |
+|   | 52. 이진 탐색 트리 합의 범위 | 20.10.19 | | |
+|   | 53. 이진 탐색 트리 노드 간 최소 거리 | 20.10.19 | | |
+|   | 54. 전위, 중위 순회 결과로 이진 트리 구축 | 20.10.19 | | |
+| [18장. 이진 검색](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/18_binary_search) | 67. 두 배열의 교집합 | 20.10.28 | | |
+|   | 68. 두 수의 합 2 | 20.10.28 | | |
+|   | 69. 2D 행렬 검색 2 | 20.10.28 | | |
