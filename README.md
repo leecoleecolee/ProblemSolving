@@ -31,10 +31,10 @@
 
 |   날짜   | 챕터 |      문제      | 발표자  | 풀이 |       복습        |
 | :------: | :--: | ------------ | :-----: | :--: | :---------------: |
-| 20.10.07 | 12장 | 37번. 부분집합 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/DFS_BFS/78.py) | 🐵 :ghost: 🌙 |
-| 20.10.09 | 13장 | 40번. 네트워크 딜레이 타임 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/13_shortest_way/40_743.py) | 🌙 👻 |
+| 20.10.07 | 12장. 그래프 | 37번. 부분집합 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/DFS_BFS/78.py) | 🐵 :ghost: 🌙 |
+| 20.10.09 | 13장. 최단 경로 문제 | 40번. 네트워크 딜레이 타임 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/13_shortest_way/40_743.py) | 🌙 👻 |
 |          |      | 41번. K 경유지 내 가장 저렴한 항공권 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/13_shortest_way/41_787.py)     | 🌙 👻 |
-| 20.10.12 |  14장 | 42번. 이진 트리의 최대 깊이 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/104.py)     |  👻 |
+| 20.10.12 | 14장. 트리 | 42번. 이진 트리의 최대 깊이 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/104.py)     |  👻 |
 |          |      | 43번. 이진 트리의 직경 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/543.py)     |  👻 |
 |          |      | 44번. 가장 긴 동일 값의 경로 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/687.py)     |  👻 |
 | 20.10.13 |      | 45번. 이진 트리 반전 | 🐵 | [링크]()     |  |
@@ -42,6 +42,13 @@
 | 20.10.14 |      | 47번. 이진 트리 직렬화 & 역직렬화 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/47_297.py) | 🌙 |
 | 20.10.15 |      | 48번. 균형 이진 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/110.py) | :ghost: |
 |          |      | 49번. 최소 높이 트리 | :ghost: | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/sanam/Problem/Tree/310.py) | :ghost: |
+| 20.10.19 |      | 52번. 이진 탐색 트리 합의 범위 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/52_938.py) | |
+|          |      | 53번. 이진 탐색 트리 노드 간 최소 거리 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/53_783.py) | |
+|          |      | 54번. 전위, 중위 순회 결과로 이진 트리 구축 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/14_tree/54_105.py) | |
 | 20.10.20 |      | 57번. 펠린드롬 페어 | 🐵 | [링크]()     |  |
+| 20.10.22 | 17장. 정렬 | 58번. 리스트 정렬 | 🌙 | [링크]() | |
+|          |      | 59번. 구간 병합 | 🌙 | [링크]() | |
 | 20.10.23 |      | 60번. 삽입정렬  | 👻 | [링크]()     |  |
+| 20.10.27 |      | 63번. 색 정렬 | 🌙 | [링크]() | |
+|          |      | 64번. 원점에 K번째로 가까운 점 | 🌙 | [링크]() | |
 
