@@ -1,7 +1,7 @@
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
         # --- 문자열에서 1을 세는 방법
-        # return bin(x^y).count('1')
+        # return bin(x ^ y).count('1')
 
         # --- 비트계산
         x = x ^ y
