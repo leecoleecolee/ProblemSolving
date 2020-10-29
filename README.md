@@ -35,6 +35,9 @@
 |   | 52. 이진 탐색 트리 합의 범위 | 20.10.19 | | |
 |   | 53. 이진 탐색 트리 노드 간 최소 거리 | 20.10.19 | | |
 |   | 54. 전위, 중위 순회 결과로 이진 트리 구축 | 20.10.19 | | |
-| [18장. 이진 검색](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/18_binary_search) | 67. 두 배열의 교집합 | 20.10.28 | | |
-|   | 68. 두 수의 합 2 | 20.10.28 | | |
-|   | 69. 2D 행렬 검색 2 | 20.10.28 | | |
+| [18장. 이진 검색](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/18_binary_search) | 67. 두 배열의 교집합 | 20.10.29 | | |
+|   | 68. 두 수의 합 2 |    |   |   |
+|   | 69. 2D 행렬 검색 2 |   |   |   |
+| [19장. 비트 조작](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/18_bit) | 70. 싱글 넘버 | 20.10.30 | #`xor` | |
+|   | 71. 해밍 거리 |   | #`해밍 거리` | |
+|   | 72. 두 정수의 합 |    | #`전가산기` #`2의 보수` #`~(not) 연산` #`음수 표현` | |
