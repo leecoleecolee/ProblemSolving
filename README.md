@@ -53,4 +53,7 @@
 |          |      | 64번. 원점에 K번째로 가까운 점 | 🌙 | 링크 | |
 | 20.10.28 |      | 65번. 이진검색  | 👻 | 링크 |  |
 |          |      | 66번. 회전 정렬된 배열 검색  | 👻 | 링크 |  |
+| 20.10.30 | 19장. 비트 조작 | 70. 싱글 넘버 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/70_136.py) | |
+|          |      | 71. 해밍 거리 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/71_461.py) | |
+|          |      | 72. 두 정수의 합 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/72_371.py) | |
 
