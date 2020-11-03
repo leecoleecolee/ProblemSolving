@@ -56,4 +56,5 @@
 | 20.10.30 | 19장. 비트 조작 | 70. 싱글 넘버 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/70_136.py) | |
 |          |      | 71. 해밍 거리 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/71_461.py) | |
 |          |      | 72. 두 정수의 합 | 🌙 | [링크](https://github.com/leecoleecolee/ProblemSolving/blob/gmoon/python_algorithm_interview/19_bit/72_371.py) | |
-
+| 20.11.02 |      | 73. UTF-8 검증 | :ghost: | 링크 | |
+|          |      | 74. 1의 개수 | :ghost:| 링크 | |
