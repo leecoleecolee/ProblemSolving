@@ -58,7 +58,7 @@ class Solution:
         # return s[start:end]
 
 '''
-"ADAOBECODEBANC"
+"ADABCOBAC"
 "AABC"
 
 "a"
