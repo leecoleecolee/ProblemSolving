@@ -45,5 +45,5 @@
 |   | 76. 부분 문자열이 포함된 최소 윈도우 | 20.11.04 | #`Counter 객체에 없는 key값 접근` #`enumerate(str, 1)` | |
 | [21장. 그리디 알고리즘](https://github.com/leecoleecolee/ProblemSolving/tree/gmoon/python_algorithm_interview/21_greedy) | 79. 키에 따른 대기열 재구성 | 20.11.06 | #`우선순위 큐` | |
 |   | 80. 태스크 스케쥴러 | 20.11.06 | #`Counter most_common 메서드` #`Counter subtract 메서드` #`Counter 밸류가 0 이하인 값 제거하기` | |
-|   | 81. 주유소 | 20.11.07 | #`문제의 조건을 잘 볼 것` #`답이 유일한 것도 힌트` | |
-|   | 82. 쿠키 부여 | 20.11.07 | #`그리디 알고리즘` #`bisect_right` | |
+|   | 81. 주유소 | 20.11.09 | #`문제의 조건을 잘 볼 것` #`답이 유일한 것도 힌트` | |
+|   | 82. 쿠키 부여 | 20.11.09 | #`그리디 알고리즘` #`bisect_right` | |
